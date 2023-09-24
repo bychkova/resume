@@ -1,5 +1,5 @@
 # Мария Бычкова
-## QA-engineer
+## QA engineer
 Телефон: +7 (929) 110-42-79  
 Email: mar.byckova@gmail.com  
 Telegram: @marbyc93
